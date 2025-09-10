@@ -1,18 +1,25 @@
 \# Conjunto de dados:
 https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 
-\# Camadas implementadas - Bronze: Dados brutos ingeridos do CSV -
-Silver: Dados limpos com transformações - Gold: Análises business (CLV,
-padrões de serviço, métodos de pagamento, etc)
+\# Camadas implementadas 
+- Bronze: Dados brutos ingeridos do CSV
+- Silver: Dados limpos com transformações
+- Gold: Análises business (CLV, padrões de serviço, métodos de pagamento, etc)
 
-\# Funcionalidades - Ingestão de dados para o Delta - Transformações -
-Análises de Customer Lifetime Value - Identificação de padrões de
-serviço - Análise de risco por método de pagamento - Análise de
-Upsell/Downsell opportunities - Identificação de potencial de aumento de
-receita - Recomendações de migração entre planos - Priorização de ações
-comerciais - Consultas SQL otimizadas
+\# Funcionalidades 
+- Ingestão de dados para o Delta
+- Transformações
+- Análises de Customer Lifetime Value
+- Identificação de padrões de serviço
+- Análise de risco por método de pagamento
+- Análise de Upsell/Downsell opportunities
+- Identificação de potencial de aumento de receita
+- Recomendações de migração entre planos
+- Priorização de ações comerciais
+- Consultas SQL otimizadas
 
 \# Guia/Estrutura 
+
 <img width="363" height="447" alt="image" src="https://github.com/user-attachments/assets/285f7d0c-cb45-4d23-a3c0-067d037d43ab" />
 
 
@@ -63,5 +70,6 @@ upsell_analysis/ │ └── payment_analysis/ └── Telecom Customers Chu
 
 \# OBS: O código é portável para as opções abaixo, porem não foi
 testado: - AWS EMR + S3 - Azure Databricks + ADLS  - Spark local
+
 
 
