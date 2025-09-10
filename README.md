@@ -23,7 +23,8 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 \
 \# Guia/Estrutura 
 
-<img width="263" height="337" alt="image" src="https://github.com/user-attachments/assets/285f7d0c-cb45-4d23-a3c0-067d037d43ab" />
+<img width="293" height="445" alt="image" src="https://github.com/user-attachments/assets/8f9b459a-1c89-421a-a294-e4497e8216e6" />
+
 
 \
 \# Tecnologias 
@@ -129,6 +130,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
