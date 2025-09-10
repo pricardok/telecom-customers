@@ -44,11 +44,11 @@ cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 <img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/c9f8b53a-4c0f-4e3d-a5ed-ad24542bd2dc" />
 \
 \# 1.1 - Upload do Arquivo de Dados # OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc
-Método 1: Importe manual
-Navegue até Workspace > .... > Import → File
-Selecione o arquivo “Telecom_Customers_Churn.csv”
-Método 2: Via Código (notebook)
-dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/default/tec_poc/")
+- Método 1: Importe manual
+\Navegue até Workspace > .... > Import → File
+\Selecione o arquivo “Telecom_Customers_Churn.csv”
+- Método 2: Via Código (notebook)
+\dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/default/tec_poc/")
 \
 \# 1.2 - Execute o script de setup %run
 /Workspace/Users/\$USER/notebooks/scripts/setup_environment
@@ -72,6 +72,7 @@ scripts/consultas.sql
 \
 \# OBS: O código é portável para as opções abaixo, porem não foi
 testado: - AWS EMR + S3 - Azure Databricks + ADLS  - Spark local
+
 
 
 
