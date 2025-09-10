@@ -63,7 +63,6 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 /Workspace/poc_tec/telecom-customers/notebooks/setup_environment.py
 ```
 
-<img width="882" height="509" alt="image" src="https://github.com/user-attachments/assets/0caa4537-b832-4d9d-973a-8b65ba432bf6" />
 
 
 \
@@ -133,6 +132,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
