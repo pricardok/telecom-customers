@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 \
 \# Como Executar:
 
-\# 1.0 - Upload do Projeto (notebook) - ( OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc )
+\# 1.0 - Upload do Projeto (notebook)
 
 ```bash
 %sh  
@@ -156,6 +156,7 @@ scripts/consultas.sql
 - Grafico 02
   
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/605ed903-a9a1-45ac-91b6-920bdb1d61d4" />
+
 
 
 
