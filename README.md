@@ -108,20 +108,20 @@ scripts/consultas.sql
 
 - setup_environment.py
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/c975a857-74b0-467f-a4fe-908baec027da" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/c975a857-74b0-467f-a4fe-908baec027da" />
 
 
 
 - 01_ingestion_bronze.py
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/55a7bfc4-5994-417a-a6ff-332b35a67d24" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/55a7bfc4-5994-417a-a6ff-332b35a67d24" />
 
 
 
 - Dados parquet   
 
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/93f29b44-e140-4bab-924a-49705b5e5503" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/93f29b44-e140-4bab-924a-49705b5e5503" />
 
 
 
@@ -129,7 +129,7 @@ scripts/consultas.sql
 - Catalogo  
 
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/4c8c2998-96f5-44e0-b9cc-bfc5b3d6b44c" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4c8c2998-96f5-44e0-b9cc-bfc5b3d6b44c" />
 
 
 
@@ -137,23 +137,26 @@ scripts/consultas.sql
 - Dados (Broze, silver e gold)  
   
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/5d01bfb3-b260-464a-8a85-c7e52903b218" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/5d01bfb3-b260-464a-8a85-c7e52903b218" />
 
 
 
 - Analises... (scripts/consultas.sql)  
   
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
 
 
-- Graficos
+- Grafico 01
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ee7910fe-f83a-4f91-801f-111ea466081c" />
 
 
 
+- Grafico 02
+  
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/605ed903-a9a1-45ac-91b6-920bdb1d61d4" />
+
 
 
 
