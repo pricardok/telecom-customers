@@ -66,14 +66,13 @@ scripts/consultas.sql
 \# Monitoramento - Verificar Qualidade dos Dados %run
 /Workspace/Users/\$USER/notebooks/scripts/validation_checks
 \
-\# Estrutura pos implementação /Volumes/workspace/default/tec_poc/ ├──
-lakehouse_telecom_churn/ │ ├── bronze/ \# Dados brutos Delta │ ├──
-silver/ \# Dados estruturados │ └── gold/ \# Análises │ ├──
-customer_value_analysis/ │ ├── service_patterns_analysis/ │ ├──
-upsell_analysis/ │ └── payment_analysis/ └── Telecom Customers Churn.csv
+\# Estrutura pos implementação 
+<img width="263" height="202" alt="image" src="https://github.com/user-attachments/assets/b990faaf-f32d-4db8-a3a2-9ce01d9ce6da" />
+
 \
 \# OBS: O código é portável para as opções abaixo, porem não foi
 testado: - AWS EMR + S3 - Azure Databricks + ADLS  - Spark local
+
 
 
 
