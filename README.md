@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 
 <img width="263" height="337" alt="image" src="https://github.com/user-attachments/assets/285f7d0c-cb45-4d23-a3c0-067d037d43ab" />
 
-
+\
 \# Tecnologias 
 - Databricks Community Edition
 - Apache Spark 3.5
@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 - Python 3.12
 - PySpark SQL
 
-
+\
 \# Como Executar:
 
 \# 1.0 - Upload do Projeto (notebook)  
@@ -46,7 +46,7 @@ cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 
 <img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
 
-
+\
 \# 1.1 - Upload do Arquivo de Dados ( OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc )
 - Método 1: Importe manual  
 Navegue até Workspace > .... > Import → File  
@@ -54,14 +54,14 @@ Selecione o arquivo “Telecom_Customers_Churn.csv”
 - Método 2: Via Código (notebook)  
 dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/default/tec_poc/")
 
-
+\
 \# 1.2 - Execute o script de setup
 
 ```python
 %run /Workspace/Users/\$USER/notebooks/scripts/setup_environment
 ``` 
 
-
+\
 \# 1.3 - Execute em sequência  
 
 ```python
@@ -72,27 +72,28 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 %run /Workspace/Users/$USER/notebooks/04_sql_queries  
 ```
 
-
+\
 \# Para analises de Dados abra o consultas.sql (consultas basicas)  
 scripts/consultas.sql
 
-
+\
 \# Monitoramento - Verificar Qualidade dos Dados
 
 ```python
 %run /Workspace/Users/\$USER/notebooks/scripts/validation_checks
 ```
 
-
+\
 \# Estrutura pos implementação  
 <img width="263" height="202" alt="image" src="https://github.com/user-attachments/assets/b990faaf-f32d-4db8-a3a2-9ce01d9ce6da" />
 
-
+\
 \# OBS: O código é portável para as opções abaixo, porem não foi
 - AWS EMR + S3
 - Azure Databricks + ADLS  
 - Spark local
 
+\
 \# Screenshots  
 
 - Dados parquet
@@ -111,6 +112,7 @@ scripts/consultas.sql
 - Analises... (scripts/consultas.sql)
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
