@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 
 \# Guia/Estrutura 
 
-<img width="263" height="247" alt="image" src="https://github.com/user-attachments/assets/285f7d0c-cb45-4d23-a3c0-067d037d43ab" />
+<img width="263" height="337" alt="image" src="https://github.com/user-attachments/assets/285f7d0c-cb45-4d23-a3c0-067d037d43ab" />
 
 
 \# Tecnologias 
@@ -74,6 +74,7 @@ upsell_analysis/ │ └── payment_analysis/ └── Telecom Customers Chu
 
 \# OBS: O código é portável para as opções abaixo, porem não foi
 testado: - AWS EMR + S3 - Azure Databricks + ADLS  - Spark local
+
 
 
 
