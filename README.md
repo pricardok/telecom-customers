@@ -109,14 +109,14 @@ scripts/consultas.sql
 
 - Catalogo  
 
-
+\
 <img width="1061" height="443" alt="image" src="https://github.com/user-attachments/assets/4c8c2998-96f5-44e0-b9cc-bfc5b3d6b44c" />
 
 
 
 - Dados (Broze, silver e gold)  
 
-
+\
 <img width="735" height="251" alt="image" src="https://github.com/user-attachments/assets/5d01bfb3-b260-464a-8a85-c7e52903b218" />
 
 
@@ -125,6 +125,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
