@@ -105,9 +105,16 @@ scripts/consultas.sql
 \# Screenshots  
 
 
+
 - setup_environment.py
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/c975a857-74b0-467f-a4fe-908baec027da" />
+
+
+
+- 01_ingestion_bronze.py
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/55a7bfc4-5994-417a-a6ff-332b35a67d24" />
 
 
 
@@ -138,6 +145,7 @@ scripts/consultas.sql
   
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
