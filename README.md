@@ -45,7 +45,7 @@ cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 
 
 \
-\# 1.1 - Upload do Arquivo de Dados # OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc
+\# 1.1 - Upload do Arquivo de Dados ( OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc )
 - Método 1: Importe manual  
 Navegue até Workspace > .... > Import → File  
 Selecione o arquivo “Telecom_Customers_Churn.csv”  
@@ -81,6 +81,28 @@ scripts/consultas.sql
 - AWS EMR + S3
 - Azure Databricks + ADLS  
 - Spark local
+
+\# screenshots  
+
+\# Projeto
+
+<img width="661" height="363" alt="image" src="https://github.com/user-attachments/assets/9033bba9-6641-4e2c-a971-3faf39145a65" />
+
+\# Catalogo
+
+<img width="1061" height="443" alt="image" src="https://github.com/user-attachments/assets/4c8c2998-96f5-44e0-b9cc-bfc5b3d6b44c" />
+
+\# Dados (Broze, silver e gold)
+
+<img width="735" height="251" alt="image" src="https://github.com/user-attachments/assets/5d01bfb3-b260-464a-8a85-c7e52903b218" />
+
+\# Analises... (scripts/consultas.sql)
+
+<img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
+
+
+
 
 
 
