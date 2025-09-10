@@ -25,6 +25,7 @@ telecom-lakehouse-poc/
 │   ├── 01_ingestion_bronze.py
 │   ├── 02_transformation_silver.py
 │   ├── 03_analysis_gold.py
+│   ├── 03b_upsell_analysis.py
 │   └── 04_sql_queries.py
 │
 ├── data/
@@ -39,8 +40,9 @@ telecom-lakehouse-poc/
 │   └── paths_config.py
 │
 ├── requirements.txt
-├── README
-└── .gitignore
+├── README.md
+├── .gitignore
+└── LICENSE
 
 
 # Tecnologias
@@ -97,4 +99,5 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 # OBS: O código é portável para as opções abaixo, porem não foi testado:
 - AWS EMR + S3
 - Azure Databricks + ADLS  
+
 - Spark local
