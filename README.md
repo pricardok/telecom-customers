@@ -44,6 +44,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 git clone https://github.com/pricardok/telecom-customers.git  
 ```
 
+<img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
 
 \
 \# 1.1 - Upload do Arquivo de Dados ( OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc )
@@ -132,6 +133,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
