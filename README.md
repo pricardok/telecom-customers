@@ -37,10 +37,11 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 \# Como Executar:
 
 \# 1.0 - Upload do Projeto (notebook)  
+```bash
 %sh  
 git clone https://github.com/pricardok/telecom-customers.git  
 cp -r telecom-customers/notebooks /Workspace/Users/$USER/  
-
+```
 <img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
 
 
@@ -54,7 +55,9 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 
 \
 \# 1.2 - Execute o script de setup  
-%run /Workspace/Users/\$USER/notebooks/scripts/setup_environment  
+```python
+%run /Workspace/Users/\$USER/notebooks/scripts/setup_environment
+``` 
 
 \
 \# 1.3 - Execute em sequência  
@@ -100,6 +103,7 @@ scripts/consultas.sql
 - Analises... (scripts/consultas.sql)
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
