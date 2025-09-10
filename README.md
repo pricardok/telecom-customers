@@ -108,7 +108,7 @@ scripts/consultas.sql
 
 - setup_environment.py
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/c975a857-74b0-467f-a4fe-908baec027da" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c975a857-74b0-467f-a4fe-908baec027da" />
 
 
 
@@ -155,7 +155,8 @@ scripts/consultas.sql
 
 - Grafico 02
   
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/605ed903-a9a1-45ac-91b6-920bdb1d61d4" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/605ed903-a9a1-45ac-91b6-920bdb1d61d4" />
+
 
 
 
