@@ -3,13 +3,12 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 
 # Camadas implementadas
 - Bronze: Dados brutos ingeridos do CSV
-- Silver: Dados limpos com transformações de qualidade
-- Gold: Análises business (CLV, padrões de serviço, métodos de pagamento)
+- Silver: Dados limpos com transformações
+- Gold: Análises business (CLV, padrões de serviço, métodos de pagamento, etc)
 
 # Funcionalidades
 - Ingestão de dados para o Delta
 - Transformações
-- Arquitetura 
 - Análises de Customer Lifetime Value
 - Identificação de padrões de serviço
 - Análise de risco por método de pagamento
@@ -19,7 +18,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 - Priorização de ações comerciais
 - Consultas SQL otimizadas
 
-# Guia
+# Guia/Estrutura
 telecom-lakehouse-poc/
 │
 ├── notebooks/
@@ -40,9 +39,9 @@ telecom-lakehouse-poc/
 │   └── paths_config.py
 │
 ├── requirements.txt
-├── README.md
-├── .gitignore
-└── LICENSE
+├── README
+└── .gitignore
+
 
 # Tecnologias
 - Databricks Community Edition
@@ -55,8 +54,8 @@ telecom-lakehouse-poc/
 
 # 1.0 - Upload do Projeto (notebook)
 %sh
-git clone https://github.com/pricardok/telecom-lakehouse-poc.git
-cp -r telecom-lakehouse-poc/notebooks /Workspace/Users/$USER/
+git clone https://github.com/pricardok/telecom-lakehouse.git
+cp -r telecom-lakehouse/notebooks /Workspace/Users/$USER/
 
 # 1.1 - Upload do Arquivo de Dados
 # OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc
@@ -76,7 +75,7 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 %run /Workspace/Users/$USER/notebooks/03b_upsell_analysis
 %run /Workspace/Users/$USER/notebooks/04_sql_queries
 
-# Analistas de Dados abra o consultas.sql
+# Para analises de Dados abra o consultas.sql (consultas basicas)
 ├── scripts/
 │   ├── consultas.sql
 
@@ -98,5 +97,5 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 # OBS: O código é portável para as opções abaixo, porem não foi testado:
 - AWS EMR + S3
 - Azure Databricks + ADLS  
-- GCP Dataproc + GCS
 - Spark local
+
