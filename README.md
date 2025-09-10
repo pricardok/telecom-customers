@@ -52,7 +52,7 @@ cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 Navegue até Workspace > .... > Import → File  
 Selecione o arquivo “Telecom_Customers_Churn.csv”  
 - Método 2: Via Código (notebook)  
-dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/default/tec_poc/")
+```python dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/default/tec_poc/") ```
 
 \
 \# 1.2 - Execute o script de setup
@@ -112,6 +112,7 @@ scripts/consultas.sql
 - Analises... (scripts/consultas.sql)
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
