@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 
 \
 \# Tecnologias 
-- Databricks Community Edition
+- Databricks Community Edition (https://databricks.com/)
 - Apache Spark 3.5
 - Delta Lake 3.1
 - Python 3.12
@@ -118,7 +118,7 @@ scripts/consultas.sql
 
 
 
-\ - Dados parquet   
+ - Dados parquet   
 
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/93f29b44-e140-4bab-924a-49705b5e5503" />
@@ -156,6 +156,7 @@ scripts/consultas.sql
 - Grafico 02
   
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/605ed903-a9a1-45ac-91b6-920bdb1d61d4" />
+
 
 
 
