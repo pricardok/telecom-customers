@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 \
 \# Guia/Estrutura 
 
-<img width="293" height="445" alt="image" src="https://github.com/user-attachments/assets/8f9b459a-1c89-421a-a294-e4497e8216e6" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8f9b459a-1c89-421a-a294-e4497e8216e6" />
 
 
 \
@@ -44,7 +44,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 git clone https://github.com/pricardok/telecom-customers.git  
 ```
 
-<img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
 
 \
 \# 1.1 - Upload do Arquivo de Dados ( OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc )
@@ -91,7 +91,7 @@ scripts/consultas.sql
 \
 \# Estrutura pos implementação  
 
-<img width="263" height="202" alt="image" src="https://github.com/user-attachments/assets/b990faaf-f32d-4db8-a3a2-9ce01d9ce6da" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b990faaf-f32d-4db8-a3a2-9ce01d9ce6da" />
 
 \
 \# OBS: O código é portável para as opções abaixo, porem não foi testado
@@ -145,6 +145,7 @@ scripts/consultas.sql
   
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
