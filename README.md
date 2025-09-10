@@ -90,6 +90,7 @@ scripts/consultas.sql
 
 \
 \# Estrutura pos implementação  
+
 <img width="263" height="202" alt="image" src="https://github.com/user-attachments/assets/b990faaf-f32d-4db8-a3a2-9ce01d9ce6da" />
 
 \
@@ -132,6 +133,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
