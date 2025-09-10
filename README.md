@@ -42,6 +42,7 @@ git clone https://github.com/pricardok/telecom-customers.git
 cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 <img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
 <img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/c9f8b53a-4c0f-4e3d-a5ed-ad24542bd2dc" />
+
 \
 \# 1.1 - Upload do Arquivo de Dados # OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc
 - Método 1: Importe manual
@@ -49,9 +50,11 @@ cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 \Selecione o arquivo “Telecom_Customers_Churn.csv”
 - Método 2: Via Código (notebook)
 \dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/default/tec_poc/")
+
 \
 \# 1.2 - Execute o script de setup %run
 /Workspace/Users/\$USER/notebooks/scripts/setup_environment
+
 \
 \# 1.3 - Execute em sequência: %run
 /Workspace/Users/\$USER/notebooks/01_ingestion_bronze %run
@@ -59,12 +62,15 @@ cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 /Workspace/Users/\$USER/notebooks/03_analysis_gold %run
 /Workspace/Users/\$USER/notebooks/03b_upsell_analysis %run
 /Workspace/Users/\$USER/notebooks/04_sql_queries
+
 \
 \# Para analises de Dados abra o consultas.sql (consultas basicas)
 scripts/consultas.sql
+
 \
 \# Monitoramento - Verificar Qualidade dos Dados %run
 /Workspace/Users/\$USER/notebooks/scripts/validation_checks
+
 \
 \# Estrutura pos implementação 
 <img width="263" height="202" alt="image" src="https://github.com/user-attachments/assets/b990faaf-f32d-4db8-a3a2-9ce01d9ce6da" />
@@ -72,6 +78,7 @@ scripts/consultas.sql
 \
 \# OBS: O código é portável para as opções abaixo, porem não foi
 testado: - AWS EMR + S3 - Azure Databricks + ADLS  - Spark local
+
 
 
 
