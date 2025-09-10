@@ -121,7 +121,7 @@ scripts/consultas.sql
 - Dados parquet   
 
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/228c3c17-6656-4fe7-9e0d-9c4ca9af6989" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/93f29b44-e140-4bab-924a-49705b5e5503" />
 
 
 
@@ -129,7 +129,7 @@ scripts/consultas.sql
 - Catalogo  
 
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/4c8c2998-96f5-44e0-b9cc-bfc5b3d6b44c" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4c8c2998-96f5-44e0-b9cc-bfc5b3d6b44c" />
 
 
 
@@ -137,14 +137,15 @@ scripts/consultas.sql
 - Dados (Broze, silver e gold)  
   
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/5d01bfb3-b260-464a-8a85-c7e52903b218" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5d01bfb3-b260-464a-8a85-c7e52903b218" />
 
 
 
 - Analises... (scripts/consultas.sql)  
   
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
