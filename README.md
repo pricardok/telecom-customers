@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 \
 \# Como Executar:
 
-\# 1.0 - Upload do Projeto (notebook) 
+\# 1.0 - Upload do Projeto (notebook)  
 %sh  
 git clone https://github.com/pricardok/telecom-customers.git  
 cp -r telecom-customers/notebooks /Workspace/Users/$USER/  
@@ -46,8 +46,8 @@ cp -r telecom-customers/notebooks /Workspace/Users/$USER/
 \
 \# 1.1 - Upload do Arquivo de Dados # OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc
 - Método 1: Importe manual  
-Navegue até Workspace > .... > Import → File
-Selecione o arquivo “Telecom_Customers_Churn.csv”
+Navegue até Workspace > .... > Import → File  
+Selecione o arquivo “Telecom_Customers_Churn.csv”  
 - Método 2: Via Código (notebook)  
 dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/default/tec_poc/")
 
@@ -80,6 +80,7 @@ scripts/consultas.sql
 - AWS EMR + S3
 - Azure Databricks + ADLS  
 - Spark local
+
 
 
 
