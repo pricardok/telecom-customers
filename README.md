@@ -41,7 +41,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 git clone https://github.com/pricardok/telecom-customers.git  
 cp -r telecom-customers/notebooks /Workspace/Users/$USER/  
 <img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
-<img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/c9f8b53a-4c0f-4e3d-a5ed-ad24542bd2dc" />
+
 
 \
 \# 1.1 - Upload do Arquivo de Dados # OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc
@@ -80,6 +80,7 @@ scripts/consultas.sql
 - AWS EMR + S3
 - Azure Databricks + ADLS  
 - Spark local
+
 
 
 
