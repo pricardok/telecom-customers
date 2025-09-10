@@ -52,13 +52,12 @@ telecom-lakehouse-poc/
 
 # Como Executar:
 
-# 1.0 - Upload do Projeto (notebook)
+# 1.0 - Upload do Projeto (notebook) - (OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc)
 %sh
 git clone https://github.com/pricardok/telecom-customers.git
-cp -r telecom-customers/notebooks /Workspace/Users/$USER/
+cp -r telecom-customers/notebooks /Volumes/workspace/default/tec_poc 
 
-# 1.1 - Upload do Arquivo de Dados
-# OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc
+# 1.1 - Upload do Arquivo de Dados  (notebook) - (OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc)
 Método 1: Importe manual
 Navegue até Workspace > .... > Import → File
 Selecione o arquivo “Telecom_Customers_Churn.csv”
@@ -98,5 +97,6 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 - AWS EMR + S3
 - Azure Databricks + ADLS  
 - Spark local
+
 
 
