@@ -40,7 +40,8 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 %sh  
 git clone https://github.com/pricardok/telecom-customers.git  
 cp -r telecom-customers/notebooks /Workspace/Users/$USER/  
-\<img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
+
+<img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
 
 
 \
@@ -80,6 +81,7 @@ scripts/consultas.sql
 - AWS EMR + S3
 - Azure Databricks + ADLS  
 - Spark local
+
 
 
 
