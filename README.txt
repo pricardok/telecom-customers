@@ -56,6 +56,7 @@ telecom-lakehouse-poc/
 %sh
 git clone https://github.com/pricardok/telecom-customers.git
 cp -r telecom-customers/notebooks /Volumes/workspace/default/tec_poc 
+cp -r telecom-customers/scripts /Volumes/workspace/default/tec_poc/notebooks
 
 # 1.1 - Upload do Arquivo de Dados  (notebook) - (OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc)
 Método 1: Importe manual
@@ -97,6 +98,7 @@ dbutils.fs.cp("file:/path/to/Telecom_Customers_Churn.csv","/Volumes/workspace/de
 - AWS EMR + S3
 - Azure Databricks + ADLS  
 - Spark local
+
 
 
 
