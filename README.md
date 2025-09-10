@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 \
 \# Como Executar:
 
-\# 1.0 - Upload do Projeto (notebook)  
+\### 1.0 - Upload do Projeto (notebook)
 
 ```bash
 %sh  
@@ -129,6 +129,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
