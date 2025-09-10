@@ -147,6 +147,16 @@ scripts/consultas.sql
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
 
 
+- Graficos
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ee7910fe-f83a-4f91-801f-111ea466081c" />
+
+
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/605ed903-a9a1-45ac-91b6-920bdb1d61d4" />
+
+
+
 
 
 
