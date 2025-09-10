@@ -1,4 +1,4 @@
-\# Conjunto de dados:
+<img width="1028" height="279" alt="image" src="https://github.com/user-attachments/assets/2fbd352b-0de9-43c6-947a-bc96a2914363" />\# Conjunto de dados:
 https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 
 \# Camadas implementadas - Bronze: Dados brutos ingeridos do CSV -
@@ -24,9 +24,13 @@ Lake 3.1 - Python 3.12 - PySpark SQL
 
 \# Como Executar:
 
-\# 1.0 - Upload do Projeto (notebook) %sh git clone
-https://github.com/pricardok/telecom-customers.git cp -r
-telecom-customers/notebooks /Workspace/Users/\$USER/
+\# 1.0 - Upload do Projeto (notebook) 
+%sh 
+git clone https://github.com/pricardok/telecom-customers.git
+cp -r telecom-customers/notebooks /Workspace/Users/$USER/
+<img width="1028" height="279" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
+<img width="736" height="417" alt="image" src="https://github.com/user-attachments/assets/c9f8b53a-4c0f-4e3d-a5ed-ad24542bd2dc" />
+
 
 \# 1.1 - Upload do Arquivo de Dados \# OBS: Caso não exista, crie um
 diretório no Catalogo, ex: tec_poc Método 1: Importe manual Navegue até
@@ -58,3 +62,4 @@ upsell_analysis/ │ └── payment_analysis/ └── Telecom Customers Chu
 
 \# OBS: O código é portável para as opções abaixo, porem não foi
 testado: - AWS EMR + S3 - Azure Databricks + ADLS  - Spark local
+
