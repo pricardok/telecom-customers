@@ -1,4 +1,4 @@
-<img width="1028" height="279" alt="image" src="https://github.com/user-attachments/assets/2fbd352b-0de9-43c6-947a-bc96a2914363" />\# Conjunto de dados:
+\# Conjunto de dados:
 https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 
 \# Camadas implementadas - Bronze: Dados brutos ingeridos do CSV -
@@ -12,15 +12,16 @@ Upsell/Downsell opportunities - Identificação de potencial de aumento de
 receita - Recomendações de migração entre planos - Priorização de ações
 comerciais - Consultas SQL otimizadas
 
-\# Guia/Estrutura telecom-lakehouse-poc/ │ ├── notebooks/ │ ├──
-01_ingestion_bronze.py │ ├── 02_transformation_silver.py │ ├──
-03_analysis_gold.py │ └── 04_sql_queries.py │ ├── data/ │ └──
-Telecom_Customers_Churn_sample.csv │ ├── scripts/ │ ├── consultas.sql │
-├── setup_environment.py │ └── validation_checks.py │ ├── config/ │ └──
-paths_config.py │ ├── requirements.txt ├── README └── .gitignore
+\# Guia/Estrutura 
+<img width="363" height="447" alt="image" src="https://github.com/user-attachments/assets/285f7d0c-cb45-4d23-a3c0-067d037d43ab" />
 
-\# Tecnologias - Databricks Community Edition - Apache Spark 3.5 - Delta
-Lake 3.1 - Python 3.12 - PySpark SQL
+
+\# Tecnologias 
+- Databricks Community Edition
+- Apache Spark 3.5
+- Delta Lake 3.1
+- Python 3.12
+- PySpark SQL
 
 \# Como Executar:
 
@@ -62,4 +63,5 @@ upsell_analysis/ │ └── payment_analysis/ └── Telecom Customers Chu
 
 \# OBS: O código é portável para as opções abaixo, porem não foi
 testado: - AWS EMR + S3 - Azure Databricks + ADLS  - Spark local
+
 
