@@ -37,12 +37,12 @@ https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers
 \
 \# Como Executar:
 
-\# 1.0 - Upload do Projeto (notebook)
+\# 1.0 - Upload do Projeto (notebook) - ( OBS: Caso não exista, crie um diretório no Catalogo, ex: tec_poc )
 
 ```bash
 %sh  
 git clone https://github.com/pricardok/telecom-customers.git  
-cp -r telecom-customers/notebooks /Workspace/Users/$USER/  
+cp -r telecom-customers/notebooks /Volumes/workspace/default/tec_poc 
 ```
 
 <img width="600" height="163" alt="image" src="https://github.com/user-attachments/assets/2219905e-b0cd-421c-b16a-05b3aacba819" />
@@ -130,6 +130,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
