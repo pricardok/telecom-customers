@@ -114,7 +114,7 @@ scripts/consultas.sql
 - Dados parquet   
 
 
-<img width="1015" height="360" alt="image" src="https://github.com/user-attachments/assets/228c3c17-6656-4fe7-9e0d-9c4ca9af6989" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/228c3c17-6656-4fe7-9e0d-9c4ca9af6989" />
 
 
 
@@ -138,6 +138,7 @@ scripts/consultas.sql
   
 
 <img width="1055" height="393" alt="image" src="https://github.com/user-attachments/assets/54301635-0759-428f-8c10-c2e2be0b5e2f" />
+
 
 
 
